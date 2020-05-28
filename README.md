@@ -12,5 +12,7 @@ src="https://github.com/onurjuzelle/Image-Processing/blob/master/capstone.png" w
 
 ## Functions
 
+The functions used and their utility is shown in the table below
+
 <img 
 src="https://github.com/onurjuzelle/Image-Processing/blob/master/functions.png" width="500" height="600"/>
